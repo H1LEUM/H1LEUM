@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Welcome](https://user-images.githubusercontent.com/68144578/206809612-0bd621dc-dcb0-4dbc-9eb5-0a069715a390.gif)
+
+
 <!--
 **H1LEUM/H1LEUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

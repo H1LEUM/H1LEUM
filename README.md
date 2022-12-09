@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Welcome](https://user-images.githubusercontent.com/68144578/206809612-0bd621dc-dcb0-4dbc-9eb5-0a069715a390.gif)
+
+![wolf](https://user-images.githubusercontent.com/68144578/206810376-ef55f338-942e-456e-acaf-053ec0090699.gif)
 
 
 <!--

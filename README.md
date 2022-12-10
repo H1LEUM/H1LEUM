@@ -2,7 +2,8 @@
 ![Happy Wolf](https://user-images.githubusercontent.com/68144578/206810957-9dad7421-f29f-4c68-9990-07e428ba75f8.gif)
 
 
-<!--
+<!--![Black Minimal Business Personal Profile Linkedin Banner](https://user-images.githubusercontent.com/68144578/206852063-b8929cc4-0c25-438a-94e5-170548373cad.png)
+
 **H1LEUM/H1LEUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
